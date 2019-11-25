@@ -21,6 +21,6 @@ public interface UserDao {
     void update(User user);
     //查询
     User get(Long id);
-    //查询全部
+    //查询全部 llllllllllllllll
     List<User> list();
 }
